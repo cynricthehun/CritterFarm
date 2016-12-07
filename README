@@ -1,0 +1,11 @@
+# CritterFarm
+Create a critter farm.
+
+# Compile the Application
+To run critter farm you will need to compile the script.
+
+### If you are on Linux.
+Install G++
+``` sudo apt-get install g++ ```
+
+If you are on Windows.
